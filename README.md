@@ -1,2 +1,3 @@
 # Jupyter-Tutorial
-A simple Jupyter tutorial for understanding what is jupyter,google colab and how it works.
+
+To open the tutorial, download the jupyter file and open it in google colab.
